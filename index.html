@@ -199,7 +199,7 @@
         </header>
         <div class="container" v-if="!loading">
 
-        <div id="swiper">
+        <div id="">
             </div>
             <a target="_blank" v-if="leftFix.sites[0]" :style="'--site-color: ' + _.find(client.sites, ['site', leftFix.sites[0].site]).color" :href="_.find(client.sites, ['site', leftFix.sites[0].site]).url" class="fix-side left">
               <div class="top"><img :src="client.cdn_url + _.find(client.sites, ['site', leftFix.sites[0].site]).site.replace(' DUPLICATE', '') + '.png'"></div>
