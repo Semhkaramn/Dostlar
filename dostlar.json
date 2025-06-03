@@ -1,42 +1,470 @@
 {
-  "html": {
-    "cdn_url": "https://cdn.siteadresin.com/",
-    "sites": [
-      {
-        "site": "casibom",
-        "url": "https://casibom.com",
-        "desc": ["1000TL HOŞ GELDİN BONUSU", "SINIRSIZ ÇEKİM"],
-        "color": "#ff9900"
-      },
-      {
-        "site": "nakitbahis",
-        "url": "https://nakitbahis.com",
-        "desc": ["%25 HOŞ GELDİN BONUSU", "SINIRSIZ ÇEKİM"],
-        "color": "#cc0066"
-      },
-      {
-        "site": "marsbahis",
-        "url": "https://marsbahis.com",
-        "desc": ["GÜNLÜK 100 MİLYON ÇEKİM", "BANKA GİBİ SAĞLAM SİTE"],
-        "color": "#6600cc"
-      },
-      {
-        "site": "tombet",
-        "url": "https://tombet.com",
-        "desc": ["HOŞ GELDİN BONUSU", "HEMEN KATIL"],
-        "color": "#009966"
-      }
-    ],
-    "categories": [
-      {
-        "id": "1706965363649",
+    "status": true,
+    "html": {
+        "logo": "https:\/\/resim.girlink.me\/mainlogo.png",
         "sites": [
-          { "site": "casibom", "sort": "1" },
-          { "site": "nakitbahis", "sort": "2" },
-          { "site": "marsbahis", "sort": "3" },
-          { "site": "tombet", "sort": "4" }
+            {
+                "url": "https:\/\/cutt.ly\/HouseCasibom",
+                "desc": [
+                    "1000TL HO\u015e GELD\u0130N BONUSU!",
+                    "SINIRSIZ \u00c7EK\u0130M!"
+                ],
+                "site": "casibom",
+                "sort": "null",
+                "color": "#fcab0f",
+                "sitepic": "..\/img\/logo\/casibom.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseNakitt",
+                "desc": [
+                    "%25 HO\u015e GELD\u0130N BONUSU!",
+                    "SINIRSIZ \u00c7EK\u0130M!"
+                ],
+                "site": "nakitbahis",
+                "sort": "null",
+                "color": "#d1287f",
+                "sitepic": "..\/img\/logo\/nakitbahis.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/w95BrsT",
+                "desc": [
+                    "1000TL DENEME BONUSU!",
+                    "5000TL HO\u015e GELD\u0130N BONUSU!"
+                ],
+                "site": "betturkey",
+                "sort": "null",
+                "color": "#ffdd3a",
+                "sitepic": "..\/img\/logo\/betturkey.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseSeka",
+                "desc": [
+                    "250TL DENEME BONUSU!",
+                    "1000TL YATIRIM BONUSU!"
+                ],
+                "site": "sekabet",
+                "sort": "null",
+                "color": "#ec9821",
+                "sitepic": "..\/img\/logo\/sekabet.png"
+            },
+            {
+                "url": "http:\/\/shbt.co\/SlotHouseSohobet",
+                "desc": [
+                    "100 FS & FB DENEME BONUSU!",
+                    "SINIRSIZ \u00c7EK\u0130M!"
+                ],
+                "site": "sohobet",
+                "sort": "null",
+                "color": "#03fa85",
+                "sitepic": "..\/img\/logo\/sohobet.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseCasilot",
+                "desc": [
+                    "100\u20ba DENEME BONUSU!",
+                    "\u00c7EVR\u0130MS\u0130Z %10 BONUS!"
+                ],
+                "site": "casilot",
+                "sort": "null",
+                "color": "#8225f8",
+                "sitepic": "..\/img\/logo\/casilot.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseHiper",
+                "desc": [
+                    "100TL DENEME BONUSU!",
+                    "S\u0130ZE \u00d6ZEL BONUSLAR!"
+                ],
+                "site": "hipercasino",
+                "sort": "null",
+                "color": "#fde001",
+                "sitepic": "..\/img\/logo\/hipercasino.png"
+            },
+            {
+                "url": "https:\/\/dub.is\/TomSlotHouse",
+                "desc": [
+                    "40 FS (5TL BET) DENEME BONUSU!",
+                    "5000X KAZAN 5000X HED\u0130YE!"
+                ],
+                "site": "tombet",
+                "sort": "null",
+                "color": "#00e18b",
+                "sitepic": "..\/img\/logo\/tombet.png"
+            },
+            {
+                "url": "https:\/\/t.ly\/SlotHouseDiyarBet",
+                "desc": [
+                    "5000TL HO\u015e GELD\u0130N BONUSU!",
+                    "S\u0130ZE \u00d6ZEL BONUSLAR!"
+                ],
+                "site": "diyarbet",
+                "sort": "null",
+                "color": "#f18e02",
+                "sitepic": "..\/img\/logo\/diyarbet.png"
+            },
+            {
+                "url": "https:\/\/t.ly\/HouseCProm",
+                "desc": [
+                    "%100 HO\u015e GELD\u0130N BONUSU!",
+                    "HER YATIRIMA %10 \u00c7EVR\u0130MS\u0130Z BONUS!"
+                ],
+                "site": "casinoprom",
+                "sort": "null",
+                "color": "#007ac2",
+                "sitepic": "..\/img\/logo\/casinoprom.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseCSlott",
+                "desc": [
+                    "100TL DENEME BONUSU!",
+                    "S\u0130ZE \u00d6ZEL BONUSLAR!"
+                ],
+                "site": "casinoslot",
+                "sort": "null",
+                "color": "#4fe500",
+                "sitepic": "..\/img\/logo\/casinoslot.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseCper",
+                "desc": [
+                    "100TL DENEME BONUSU!",
+                    "S\u0130ZE \u00d6ZEL BONUSLAR!"
+                ],
+                "site": "casinoper",
+                "sort": "null",
+                "color": "#2afebd",
+                "sitepic": "..\/img\/logo\/casinoper.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseMarssbhs",
+                "desc": [
+                    "G\u00dcNL\u00dcK 100 MILYON TL \u00c7EK\u0130M!",
+                    "BANKA G\u0130B\u0130 SA\u011eLAM S\u0130TE!"
+                ],
+                "site": "marsbahis",
+                "sort": "null",
+                "color": "#ff0000",
+                "sitepic": "..\/img\/logo\/marsbahis.png"
+            },
+            {
+                "url": "https:\/\/t2m.io\/slothouseduman",
+                "desc": [
+                    "250TL DENEME BONUSU!",
+                    "%200 HO\u015e GELD\u0130N BONUSU!"
+                ],
+                "site": "dumanbet",
+                "sort": "null",
+                "color": "#75b900",
+                "sitepic": "..\/img\/logo\/dumanbet.png"
+            },
+            {
+                "url": "https:\/\/t2m.io\/abslothouseasya",
+                "desc": [
+                    "250TL DENEME BONUSU!",
+                    "%100 HO\u015e GELD\u0130N BONUSU!"
+                ],
+                "site": "asyabahis",
+                "sort": "null",
+                "color": "#3dc6f3",
+                "sitepic": "..\/img\/logo\/asyabahis.png"
+            },
+            {
+                "url": "https:\/\/t2m.io\/pbslothouse",
+                "desc": [
+                    "%100 R\u0130SKS\u0130Z BONUS!",
+                    "%100 HO\u015e GELD\u0130N BONUSU!"
+                ],
+                "site": "pinbahis",
+                "sort": "null",
+                "color": "#0b6029",
+                "sitepic": "..\/img\/logo\/pinbahis.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseOla",
+                "desc": [
+                    "250TL DENEME BONUSU!",
+                    "HER YATIRIMA FREESPIN!"
+                ],
+                "site": "olabahis",
+                "sort": "null",
+                "color": "#f4ca68",
+                "sitepic": "..\/img\/logo\/olabahis.png"
+            },
+            {
+                "url": "https:\/\/t2m.io\/slothousemalt",
+                "desc": [
+                    "250TL DENEME BONUSU!",
+                    "%300 HO\u015e GELD\u0130N BONUSU!"
+                ],
+                "site": "maltcasino",
+                "sort": "null",
+                "color": "#ffca00",
+                "sitepic": "..\/img\/logo\/maltcasino.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseOris",
+                "desc": [
+                    "750 FS HO\u015e GELD\u0130N BONUSU!",
+                    "S\u0130ZE \u00d6ZEL BONUSLAR!"
+                ],
+                "site": "orisbet",
+                "sort": "null",
+                "color": "#f28e1e",
+                "sitepic": "..\/img\/logo\/orisbet.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/LeGdFmln",
+                "desc": [
+                    "750TL DENEME BONUSU!",
+                    "%150 HO\u015e GELD\u0130N BONUSU!"
+                ],
+                "site": "sahabet",
+                "sort": "null",
+                "color": "#49b176",
+                "sitepic": "..\/img\/logo\/sahabet.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/slothousemasterbettig",
+                "desc": [
+                    "200 FS & FB DENEME BONUSU!",
+                    "SINIRSIZ \u00c7EK\u0130M!"
+                ],
+                "site": "masterbettig",
+                "sort": "null",
+                "color": "#7aff95",
+                "sitepic": "..\/img\/logo\/masterbettig.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseBetgit",
+                "desc": [
+                    "250TL DENEME BONUSU!",
+                    "%150 HOSGELD\u0130N BONUSU!"
+                ],
+                "site": "betgit",
+                "sort": "null",
+                "color": "#d0d317",
+                "sitepic": "..\/img\/logo\/betgit.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/SlotHouseVidoBet",
+                "desc": [
+                    "500\u20ba DENEME BONUSU!",
+                    "%20 D\u0130SCOUNT!"
+                ],
+                "site": "vidobet",
+                "sort": "null",
+                "color": "#00ff91",
+                "sitepic": "..\/img\/logo\/vidobet.png"
+            },
+            {
+                "url": "https:\/\/t2m.io\/slotdemir",
+                "desc": [
+                    "%200 \u0130LK YATIRIM BONUSU!",
+                    "%20 ANLIK \u0130ADE"
+                ],
+                "site": "carlobahis",
+                "sort": "null",
+                "color": "#04ff00",
+                "sitepic": "..\/img\/logo\/carlobahis.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/House-SuperBhs",
+                "desc": [
+                    "%50 YATIRIM BONUSU!",
+                    "S\u0130ZE \u00d6ZEL BONUSLAR!"
+                ],
+                "site": "superbahis",
+                "sort": "null",
+                "color": "#00b3ff",
+                "sitepic": "..\/img\/logo\/superbahis.png"
+            }
+        ],
+        "social": {
+            "skype": "https:\/\/join.skype.com\/invite\/hBVGdSpqa2Yq",
+            "youtube": "https:\/\/www.youtube.com\/@slotthouse",
+            "telegram": "https:\/\/t.me\/SlotDemirHouse",
+            "instagram": ""
+        },
+        "cdn_url": "\/img\/logo\/",
+        "is_slider": true,
+        "background": null,
+        "categories": [
+            {
+                "id": "1706206125458",
+                "svg": null,
+                "grid": "1",
+                "name": "Sol Fix",
+                "sort": "1",
+                "sites": [
+                    {
+                        "site": "casibom",
+                        "sort": "1"
+                    }
+                ]
+            },
+            {
+                "id": "1706206145587",
+                "svg": null,
+                "grid": "1",
+                "name": "Sa\u011f Fix",
+                "sort": "1",
+                "sites": [
+                    {
+                        "site": "nakitbahis",
+                        "sort": "1"
+                    }
+                ]
+            },
+            {
+                "id": "1706965363649",
+                "name": "4 animasyonlu siteler",
+                "sites": [
+                    {
+                        "site": "casibom",
+                        "sort": "1",
+                        "bg": ".jpg"
+                    },
+                    {
+                        "site": "nakitbahis",
+                        "sort": "2",
+                        "bg": "2.jpg"
+                    },
+                    {
+                        "site": "marsbahis",
+                        "sort": "3",
+                        "bg": "3.jpg"
+                    },
+                    {
+                        "site": "tombet",
+                        "sort": "4",
+                        "bg": "4.jpg"
+                    }
+                ]
+            },
+            {
+                "id": "1706206255751",
+                "svg": null,
+                "grid": "4",
+                "name": "\u00dcst Alan VIP",
+                "sort": "1",
+                "sites": [
+                    {
+                        "site": "sekabet",
+                        "sort": "1"
+                    },
+                    {
+                        "site": "sahabet",
+                        "sort": "4"
+                    },
+                    {
+                        "site": "sohobet",
+                        "sort": "5"
+                    },
+                    {
+                        "site": "casilot",
+                        "sort": "2"
+                    },
+                    {
+                        "site": "hipercasino",
+                        "sort": "8"
+                    },
+                    {
+                        "site": "casinoslot",
+                        "sort": "13"
+                    },
+                    {
+                        "site": "casinoper",
+                        "sort": "11"
+                    },
+                    {
+                        "site": "dumanbet",
+                        "sort": "12"
+                    },
+                    {
+                        "site": "asyabahis",
+                        "sort": "14"
+                    },
+                    {
+                        "site": "pinbahis",
+                        "sort": "13"
+                    },
+                    {
+                        "site": "olabahis",
+                        "sort": "14"
+                    },
+                    {
+                        "site": "maltcasino",
+                        "sort": "15"
+                    },
+                    {
+                        "site": "orisbet",
+                        "sort": "16"
+                    },
+                    {
+                        "site": "masterbettig",
+                        "sort": "17"
+                    },
+                    {
+                        "site": "betturkey",
+                        "sort": "18"
+                    },
+                    {
+                        "site": "betgit",
+                        "sort": "20"
+                    },
+                    {
+                        "site": "vidobet",
+                        "sort": "3"
+                    },
+                    {
+                        "site": "carlobahis",
+                        "sort": "21"
+                    },
+                    {
+                        "site": "superbahis",
+                        "sort": "22"
+                    }
+                ]
+            },
+            {
+                "id": "1706406420307",
+                "svg": null,
+                "grid": "1",
+                "name": "Alt Fix",
+                "sort": "1",
+                "sites": [
+                    {
+                        "site": "marsbahis",
+                        "sort": "3"
+                    }
+                ]
+            },
+            {
+                "id": "1706406449314",
+                "svg": null,
+                "grid": "1",
+                "name": "Bildiri Reklam\u0131",
+                "sort": "1",
+                "sites": [
+                    {
+                        "site": "casibom",
+                        "sort": "1"
+                    }
+                ]
+            },
+            {
+                "id": "1740530090501",
+                "svg": null,
+                "grid": "1",
+                "name": "VIPSITELER \u00d6ZEL",
+                "sort": "1",
+                "sites": [
+                    {
+                        "site": "casibom",
+                        "sort": "1"
+                    }
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
