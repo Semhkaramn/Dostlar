@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dostlar1 | Güvenilir Siteler</title>
+    <title>Dostlar | Güvenilir Siteler</title>
     <link rel="stylesheet" href="app.css">
     <link rel="shortcut icon" href="favicon.png">
     <link rel="stylesheet" href="ajax/swiper.min.css">
@@ -252,7 +252,7 @@
                 <div class="col" v-if="_.find(client.sites, ['site', site.site])" v-for="(site,siteKey) in _.orderBy(vip.sites, [item => parseInt(item.sort)], ['asc'])">
                     <a target="_blank"  :href="_.find(client.sites, ['site', site.site]).url" class="item" :style="'--site-color: ' + _.find(client.sites, ['site', site.site]).color">
                         <div class="left">
-                            <img :src="_.find(client.sites, ['site', site.site]).sitepic || (client.cdn_url + _.find(client.sites, ['site', site.site]).site + '.png'" width="150">
+                            <img :src="client.cdn_url + _.find(client.sites, ['site', site.site]).site + '.png'" width="150">
                             <div class="text">
                             {{ _.find(client.sites, ['site', site.site]).desc[0] }} 
                             <div> <small>{{ _.find(client.sites, ['site', site.site]).desc[1] }}</small></div>
