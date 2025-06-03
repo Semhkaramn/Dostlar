@@ -277,6 +277,17 @@
                 "sort": "null",
                 "color": "#00b3ff",
                 "sitepic": "..\/img\/logo\/superbahis.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/dostlarwojo",
+                "desc": [
+                    "100₺ yap çek deneme bonusu",
+                    "%15 kayıp bonusu!"
+                ],
+                "site": "wojobet",
+                "sort": "null",
+                "color": "#00b3ff",
+                "sitepic": "..\/img\/logo\/wojobet.png"
             }
         ],
         "social": {
@@ -423,6 +434,10 @@
                     {
                         "site": "superbahis",
                         "sort": "22"
+                    },
+                    {
+                        "site": "superbahis",
+                        "sort": "23"
                     }
                 ]
             },
