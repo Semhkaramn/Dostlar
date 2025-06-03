@@ -45,7 +45,7 @@
                 "site": "sekabet",
                 "sort": "null",
                 "color": "#ec9821",
-                "sitepic": "img/logo/sekabet.png"
+                "sitepic": "..\/img\/logo\/sekabet.png"
             },
             {
                 "url": "http:\/\/shbt.co\/SlotHouseSohobet",
@@ -285,7 +285,7 @@
             "telegram": "https:\/\/t.me\/SlotDemirHouse",
             "instagram": ""
         },
-        "cdn_url": "https://semhkaramn.github.io/Dostlar/img/logo/",
+        "cdn_url": "https:\/\/semhkaramn.github.io\/Dostlar\/img\/logo\/",
         "is_slider": true,
         "background": null,
         "categories": [
