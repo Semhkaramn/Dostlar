@@ -809,8 +809,7 @@ align-items: center;
 justify-content: space-between;
 flex-direction: column;
 animation: fadeIn 1s alternate forwards;
-opacity: 1;
-animation: none;
+opacity: 0;
 }
 
 .notify-fixed:before{
