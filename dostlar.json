@@ -558,148 +558,136 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "betpipo",
+                        "site": "bethand",
                         "sort": "1"
                     },
                     {
-                        "site": "betovis",
+                        "site": "betjuve",
                         "sort": "2"
                     },
                     {
-                        "site": "betorspin",
+                        "site": "nerobet",
                         "sort": "3"
                     },
                     {
-                        "site": "yohohobet",
+                        "site": "hepsibet",
                         "sort": "4"
                     },
                     {
-                        "site": "slotin",
+                        "site": "wojobet",
                         "sort": "5"
                     },
                     {
-                        "site": "sekabet",
+                        "site": "efsino",
                         "sort": "6"
                     },
                     {
-                        "site": "romabet",
+                        "site": "betpir",
                         "sort": "7"
                     },
                     {
-                        "site": "roketbet",
+                        "site": "efesbet",
                         "sort": "8"
                     },
                     {
-                        "site": "bahix",
+                        "site": "lostbahis",
                         "sort": "9"
                     },
                     {
-                        "site": "sesbet",
+                        "site": "betpipo",
                         "sort": "10"
                     },
                     {
-                        "site": "meritking",
+                        "site": "betovis",
                         "sort": "11"
                     },
                     {
-                        "site": "kingroyal",
+                        "site": "betorspin",
                         "sort": "12"
                     },
                     {
-                        "site": "madridbet",
+                        "site": "yohohobet",
                         "sort": "13"
                     },
                     {
-                        "site": "tombet",
+                        "site": "slotin",
                         "sort": "14"
                     },
                     {
-                        "site": "dedebet",
+                        "site": "sekabet",
                         "sort": "15"
                     },
                     {
-                        "site": "goatbahis",
+                        "site": "bahix",
                         "sort": "16"
                     },
                     {
-                        "site": "supertotobet",
+                        "site": "sesbet",
                         "sort": "17"
                     },
                     {
-                        "site": "betist",
+                        "site": "meritking",
                         "sort": "18"
                     },
                     {
-                        "site": "baywin",
-                        "sort": "21"
-                    },
-                    {
-                        "site": "hepsibet",
-                        "sort": "22"
-                    },
-                    {
-                        "site": "maritbet",
-                        "sort": "23"
-                    },
-                    {
-                        "site": "spinco",
-                        "sort": "24"
-                    },
-                    {
-                        "site": "otobet",
-                        "sort": "25"
-                    },
-                    {
-                        "site": "betpublic",
-                        "sort": "26"
-                    },
-                    {
-                        "site": "betmatik",
-                        "sort": "27"
-                    },
-                    {
-                        "site": "betosfer",
+                        "site": "kingroyal",
                         "sort": "19"
                     },
                     {
-                        "site": "norabahis",
+                        "site": "madridbet",
                         "sort": "20"
                     },
                     {
-                        "site": "logobahis",
+                        "site": "tombet",
+                        "sort": "21"
+                    },
+                    {
+                        "site": "goatbahis",
+                        "sort": "22"
+                    },
+                    {
+                        "site": "supertotobet",
+                        "sort": "23"
+                    },
+                    {
+                        "site": "betist",
+                        "sort": "24"
+                    },
+                    {
+                        "site": "baywin",
+                        "sort": "25"
+                    },
+                    {
+                        "site": "maritbet",
+                        "sort": "26"
+                    },
+                    {
+                        "site": "spinco",
+                        "sort": "27"
+                    },
+                    {
+                        "site": "otobet",
                         "sort": "28"
                     },
                     {
-                        "site": "bethand",
+                        "site": "betpublic",
                         "sort": "29"
                     },
                     {
-                        "site": "efsino",
+                        "site": "betmatik",
                         "sort": "30"
                     },
                     {
-                        "site": "betpir",
+                        "site": "betosfer",
                         "sort": "31"
                     },
                     {
-                        "site": "efesbet",
+                        "site": "norabahis",
                         "sort": "32"
                     },
                     {
-                        "site": "lostbahis",
+                        "site": "logobahis",
                         "sort": "33"
-                    },
-                    {
-                        "site": "betjuve",
-                        "sort": "34"
-                    },
-                    {
-                        "site": "wojobet",
-                        "sort": "35"
-                    },
-                    {
-                        "site": "nerobet",
-                        "sort": "36"
                     }
                 ]
             },
