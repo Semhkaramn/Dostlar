@@ -442,6 +442,50 @@
                 "sort": "null",
                 "color": "#94732c",
                 "sitepic": "..\/img\/logo\/efesbet.png"
+            },
+            {
+                "url": "https:\/\/shortix.link\/affiliate?s=casinodostlar&name=lostbahis",
+                "desc": [
+                    "333 tl deneme bonusu",
+                    "%20 Kayıp Bonusu"
+                ],
+                "site": "lostbahis",
+                "sort": "null",
+                "color": "#012268",
+                "sitepic": "..\/img\/logo\/lostbahis.png"
+            },
+            {
+                "url": "https:\/\/bs85cdn.com\/C.ashx?btag=a_10104b_678c_&affid=22675&siteid=10104&adid=678&c=",
+                "desc": [
+                    "BS500 kodu ile deneme bonusu",
+                    "%12 Kayıp Bonusu"
+                ],
+                "site": "betsat",
+                "sort": "null",
+                "color": "#ffe500",
+                "sitepic": "..\/img\/logo\/betsat.png"
+            },
+            {
+                "url": "https:\/\/sb85cdn.com\/C.ashx?btag=a_10108b_681c_&affid=22679&siteid=10108&adid=681&c=",
+                "desc": [
+                    "BS500 kodu ile deneme bonusu",
+                    "%12 Kayıp Bonusu"
+                ],
+                "site": "superbetin",
+                "sort": "null",
+                "color": "#1616c5",
+                "sitepic": "..\/img\/logo\/superbetin.png"
+            },
+            {
+                "url": "https:\/\/trk85cdn.com\/C.ashx?btag=a_10109b_689c_&affid=22680&siteid=10109&adid=689&c=",
+                "desc": [
+                    "250 tl deneme bonusu",
+                    "%12 Kayıp Bonusu"
+                ],
+                "site": "turkbet",
+                "sort": "null",
+                "color": "#e30613",
+                "sitepic": "..\/img\/logo\/turkbet.png"
             }
         ],
         "social": {
@@ -640,6 +684,22 @@
                     {
                         "site": "efesbet",
                         "sort": "32"
+                    },
+                    {
+                        "site": "lostbahis",
+                        "sort": "33"
+                    },
+                    {
+                        "site": "betsat",
+                        "sort": "34"
+                    },
+                    {
+                        "site": "superbetin",
+                        "sort": "35"
+                    },
+                    {
+                        "site": "turkbet",
+                        "sort": "36"
                     }
                 ]
             },
