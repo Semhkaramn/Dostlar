@@ -136,17 +136,6 @@
                 "sitepic": "..\/img\/logo\/roketbet.png"
             },
             {
-                "url": "https://dub.is/tomdostlar",
-                "desc": [
-                    "10x YAP 15x ÇEK BONUSU",
-                    "%20 CASİNO KAYIP BONUSU"
-                ],
-                "site": "tombet",
-                "sort": "null",
-                "color": "#a1f4d4",
-                "sitepic": "..\/img\/logo\/tombet.png"
-            },
-            {
                 "url": "https:\/\/bahix2.com\/affiliates\/?btag=2308990",
                 "desc": [
                     "250TL Deneme Bonusu!",
@@ -636,10 +625,6 @@
                     {
                         "site": "madridbet",
                         "sort": "20"
-                    },
-                    {
-                        "site": "tombet",
-                        "sort": "21"
                     },
                     {
                         "site": "goatbahis",
