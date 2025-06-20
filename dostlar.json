@@ -529,22 +529,22 @@
                 "name": "4 animasyonlu siteler",
                 "sites": [
                     {
-                        "site": "betjuve",
+                        "site": "turkisvegas",
                         "sort": "1",
                         "bg": ".jpg"
                     },
                     {
-                        "site": "wojobet",
+                        "site": "betsat",
                         "sort": "2",
                         "bg": "2.jpg"
                     },
                     {
-                        "site": "nerobet",
+                        "site": "superbetin",
                         "sort": "3",
                         "bg": "3.jpg"
                     },
                     {
-                        "site": "hepsibet",
+                        "site": "turkbet",
                         "sort": "4",
                         "bg": "4.jpg"
                     }
@@ -634,7 +634,7 @@
                         "sort": "21"
                     },
                     {
-                        "site": "turkishvegas",
+                        "site": "hepsibet",
                         "sort": "22"
                     },
                     {
@@ -690,15 +690,15 @@
                         "sort": "33"
                     },
                     {
-                        "site": "betsat",
+                        "site": "betjuve",
                         "sort": "34"
                     },
                     {
-                        "site": "superbetin",
+                        "site": "wojobet",
                         "sort": "35"
                     },
                     {
-                        "site": "turkbet",
+                        "site": "nerobet",
                         "sort": "36"
                     }
                 ]
