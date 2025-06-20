@@ -398,6 +398,50 @@
                 "sort": "null",
                 "color": "#304a4e",
                 "sitepic": "..\/img\/logo\/yohohobet.png"
+            },
+            {
+                "url": "https:\/\/cutt.ly\/9rWhCw2z",
+                "desc": [
+                    "100 freespin deneme bonusu",
+                    "%20 Kayıp Bonusu"
+                ],
+                "site": "bethand",
+                "sort": "null",
+                "color": "#ffd700",
+                "sitepic": "..\/img\/logo\/bethand.png"
+            },
+            {
+                "url": "https:\/\/efsinoaff.com\/?modal=register&ref=casinodostlarefsino",
+                "desc": [
+                    "5 Dolar deneme bonusu",
+                    "%35 Kayıp Bonusu"
+                ],
+                "site": "efsino",
+                "sort": "null",
+                "color": "#7c26eb",
+                "sitepic": "..\/img\/logo\/efsino.png"
+            },
+            {
+                "url": "http:\/\/betpirpartners1.com\/?modal=register&ref=casinodostlarbetpir",
+                "desc": [
+                    "5 dolar deneme bonusu",
+                    "%35 Kayıp Bonusu"
+                ],
+                "site": "betpir",
+                "sort": "null",
+                "color": "#edc42e",
+                "sitepic": "..\/img\/logo\/betpir.png"
+            },
+            {
+                "url": "https:\/\/sshortly.net\/a41e91d",
+                "desc": [
+                    "250 tl deneme bonusu",
+                    "%20 Kayıp Bonusu"
+                ],
+                "site": "efesbet",
+                "sort": "null",
+                "color": "#94732c",
+                "sitepic": "..\/img\/logo\/efesbet.png"
             }
         ],
         "social": {
@@ -580,6 +624,22 @@
                     {
                         "site": "logobahis",
                         "sort": "31"
+                    },
+                    {
+                        "site": "bethand",
+                        "sort": "32"
+                    },
+                    {
+                        "site": "efsino",
+                        "sort": "33"
+                    },
+                    {
+                        "site": "betpir",
+                        "sort": "34"
+                    },
+                    {
+                        "site": "efesbet",
+                        "sort": "35"
                     }
                 ]
             },
