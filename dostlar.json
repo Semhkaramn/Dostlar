@@ -6,7 +6,7 @@
             {
                 "url": "https:\/\/betjuve.vip\/2420171",
                 "desc": [
-                    "100 FS DENEME KOD: dost100",
+                    "100 FS DENEME",
                     "%20 CASİNO KAYIP BONUSU"
                 ],
                 "site": "betjuve",
@@ -46,17 +46,6 @@
                 "sort": "null",
                 "color": "#ffffff",
                 "sitepic": "..\/img\/logo\/hepsibet.png"
-            },
-            {
-                "url": "https:\/\/cutt.ly\/2425590",
-                "desc": [
-                    "%50 AMUSNET YATIRIM BONUSU",
-                    "%25 KAYIP BONUSU"
-                ],
-                "site": "betovis",
-                "sort": "null",
-                "color": "#d10f2c",
-                "sitepic": "..\/img\/logo\/betovis.png"
             },
             {
                 "url": "https://cutt.ly/krbnnpHm",
@@ -103,17 +92,6 @@
                 "sitepic": "..\/img\/logo\/sekabet.png"
             },
             {
-                "url": "https:\/\/cutt.ly\/KrhqWDFR",
-                "desc": [
-                    "300 TL DENEME BONUSU",
-                    "%25 CASİNO KAYIP BONUSU"
-                ],
-                "site": "sesbet",
-                "sort": "null",
-                "color": "#b38f40",
-                "sitepic": "..\/img\/logo\/sesbet.png"
-            },
-            {
                 "url": "https:\/\/cutt.ly\/YwEwDw3r",
                 "desc": [
                     "1000 TL DENEME BONUSU",
@@ -145,39 +123,6 @@
                 "sort": "null",
                 "color": "#2dd6ff",
                 "sitepic": "..\/img\/logo\/bahix.png"
-            },
-            {
-                "url": "https:\/\/www.redly.vip\/yStE65g",
-                "desc": [
-                    "500TL Deneme Bonusu!",
-                    "%10 Casino Kayıp Bonusu"
-                ],
-                "site": "meritking",
-                "sort": "null",
-                "color": "#eecc7b",
-                "sitepic": "..\/img\/logo\/meritking.png"
-            },
-            {
-                "url": "https:\/\/www.redly.vip\/zadPcvm",
-                "desc": [
-                    "500TL Deneme Bonusu",
-                    "%10 Casino Kayıp Bonusu"
-                ],
-                "site": "kingroyal",
-                "sort": "null",
-                "color": "#ebb605",
-                "sitepic": "..\/img\/logo\/kingroyal.png"
-            },
-            {
-                "url": "https:\/\/redicet.biz\/?r=1726073210",
-                "desc": [
-                    "500TL Deneme Bonusu",
-                    "%10 Casino Kayıp Bonusu!"
-                ],
-                "site": "madridbet",
-                "sort": "null",
-                "color": "#f1f43b",
-                "sitepic": "..\/img\/logo\/madridbet.png"
             },
             {
                 "url": "https:\/\/media.madaffiliates.com\/redirect.aspx?mid=1&sid=295&cid=&pid=&affid=293",
@@ -402,7 +347,7 @@
             {
                 "url": "https:\/\/efsinoaff.com\/?modal=register&ref=casinodostlarefsino",
                 "desc": [
-                    "5 Dolar deneme bonusu",
+                    "100 FS DENEME BONUSU",
                     "%35 Kayıp Bonusu"
                 ],
                 "site": "efsino",
@@ -475,6 +420,28 @@
                 "sort": "null",
                 "color": "#e30613",
                 "sitepic": "..\/img\/logo\/turkbet.png"
+            },
+            {
+                "url": "http:\/\/www.zio.bet\/affiliates\/?btag=2452379",
+                "desc": [
+                    "100 FS DENEME BONUSU",
+                    "%25 KAYIP BONUSU"
+                ],
+                "site": "ziobet",
+                "sort": "null",
+                "color": "#e30613",
+                "sitepic": "..\/img\/logo\/ziobet.png"
+            },
+            {
+                "url": "https:\/\/www.jokerbetaff.com\/affiliates\/?btag=2449170",
+                "desc": [
+                    "bahisduyuru kodu ile deneme bonusu",
+                    "%30 KAYIP BONUSU"
+                ],
+                "site": "jokerbet",
+                "sort": "null",
+                "color": "#e30613",
+                "sitepic": "..\/img\/logo\/jokerbet.png"
             }
         ],
         "social": {
@@ -547,132 +514,120 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "bethand",
+                        "site": "ziobet",
                         "sort": "1"
                     },
                     {
-                        "site": "betjuve",
+                        "site": "jokerbet",
                         "sort": "2"
                     },
                     {
-                        "site": "nerobet",
+                        "site": "bethand",
                         "sort": "3"
                     },
                     {
-                        "site": "hepsibet",
+                        "site": "betjuve",
                         "sort": "4"
                     },
                     {
-                        "site": "wojobet",
-                        "sort": "5"
+                        "site": "nerobet",
+                        "sort": "2"
                     },
                     {
-                        "site": "efsino",
+                        "site": "hepsibet",
                         "sort": "6"
                     },
                     {
-                        "site": "betpir",
+                        "site": "wojobet",
                         "sort": "7"
                     },
                     {
-                        "site": "efesbet",
+                        "site": "efsino",
                         "sort": "8"
                     },
                     {
-                        "site": "lostbahis",
+                        "site": "betpir",
                         "sort": "9"
                     },
                     {
-                        "site": "betpipo",
+                        "site": "efesbet",
                         "sort": "10"
                     },
                     {
-                        "site": "betovis",
-                        "sort": "11"
+                        "site": "lostbahis",
+                        "sort": "1"
                     },
                     {
-                        "site": "betorspin",
+                        "site": "betpipo",
                         "sort": "12"
                     },
                     {
-                        "site": "yohohobet",
+                        "site": "betorspin",
                         "sort": "13"
                     },
                     {
-                        "site": "slotin",
+                        "site": "yohohobet",
                         "sort": "14"
                     },
                     {
-                        "site": "sekabet",
+                        "site": "slotin",
                         "sort": "15"
                     },
                     {
-                        "site": "bahix",
+                        "site": "sekabet",
                         "sort": "16"
                     },
                     {
-                        "site": "sesbet",
+                        "site": "bahix",
                         "sort": "17"
                     },
                     {
-                        "site": "meritking",
+                        "site": "goatbahis",
                         "sort": "18"
                     },
                     {
-                        "site": "kingroyal",
+                        "site": "supertotobet",
                         "sort": "19"
                     },
                     {
-                        "site": "madridbet",
+                        "site": "betist",
                         "sort": "20"
                     },
                     {
-                        "site": "goatbahis",
-                        "sort": "22"
-                    },
-                    {
-                        "site": "supertotobet",
-                        "sort": "23"
-                    },
-                    {
-                        "site": "betist",
-                        "sort": "24"
-                    },
-                    {
                         "site": "baywin",
-                        "sort": "25"
+                        "sort": "21"
                     },
                     {
                         "site": "maritbet",
-                        "sort": "26"
+                        "sort": "22"
                     },
                     {
                         "site": "spinco",
-                        "sort": "27"
+                        "sort": "23"
                     },
                     {
                         "site": "otobet",
-                        "sort": "28"
+                        "sort": "24"
                     },
                     {
                         "site": "betpublic",
-                        "sort": "29"
+                        "sort": "25"
                     },
                     {
                         "site": "betmatik",
-                        "sort": "30"
+                        "sort": "26"
                     },
                     {
                         "site": "betosfer",
-                        "sort": "31"
+                        "sort": "27"
                     },
                     {
                         "site": "norabahis",
-                        "sort": "32"
+                        "sort": "28"
                     },
                     {
                         "site": "logobahis",
-                        "sort": "33"
+                        "sort": "29"
                     }
                 ]
             },
@@ -698,19 +653,6 @@
                 "sites": [
                     {
                         "site": "bethand",
-                        "sort": "1"
-                    }
-                ]
-            },
-            {
-                "id": "1740530090501",
-                "svg": null,
-                "grid": "1",
-                "name": "VIPSITELER \u00d6ZEL",
-                "sort": "1",
-                "sites": [
-                    {
-                        "site": "casinomhub",
                         "sort": "1"
                     }
                 ]
